@@ -1,3 +1,5 @@
+*Le 16 février 2016, le directeur général d'Apple, Tim Cook, a publié un texte visant à rendre visible la tentative de pression exercée par le gouvernement américain pour forcer Apple à contourner le mécanisme de cryptage de données des iPhones. Bien que le sujet du cryptage (et des menaces qui planent sur lui) ait été abondamment discuté depuis plusieurs années par les activistes de la sécurité informatique et les défenseurs des libertés individuelles, le fait que Tim Cook et Apple en parle de façon si spectaculaire, au grand public, révèle l'importance du sujet et du message. Traduction française ci-dessous.*
+
 ## 16 février 2016 — Un message à l'intention de nos clients
 
 Le gouvernement des États-Unis d'Amérique vient d'exiger d'Apple une opération technique sans précédent, qui menace la sécurité de nos clients. Nous refusons d'obéir à cette requête, motivée par un cas judiciaire bien spécifique, car elle aurait des répercussions bien plus graves.
